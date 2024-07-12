@@ -11,17 +11,17 @@ export default function FootballArea({ team, gameStarted, guessFootballer }: { t
         </div>
         <div className={`flex justify-center gap-4`}>
             {forwards.map((forward, index) => (
-                <FootballerCard footballer={forward} gameStarted={gameStarted} guessFootballer={guessFootballer} position="forward" />
+                <FootballerCard footballer={forward} gameStarted={gameStarted} guessFootballer={guessFootballer} position="forward" key={index} />
             ))}
         </div>
         <div className={`flex justify-center gap-4`}>
             {midfielders.map((midfielder, index) => (
-                <FootballerCard footballer={midfielder} gameStarted={gameStarted} guessFootballer={guessFootballer} position="midfielder" />
+                <FootballerCard footballer={midfielder} gameStarted={gameStarted} guessFootballer={guessFootballer} position="midfielder" key={index} />
             ))}
         </div>
         <div className={`flex justify-center gap-4`}>
             {defenders.map((defender, index) => (
-                <FootballerCard footballer={defender} gameStarted={gameStarted} guessFootballer={guessFootballer} position="defender" />
+                <FootballerCard footballer={defender} gameStarted={gameStarted} guessFootballer={guessFootballer} position="defender" key={index} />
             ))}
         </div>
         <div className="flex flex-col items-center mt-4">
