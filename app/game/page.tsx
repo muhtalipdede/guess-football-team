@@ -6,9 +6,9 @@ import Player from "@/types/player";
 import Team from "@/types/team";
 import { collection, getDocs, onSnapshot, query, updateDoc, where } from "@firebase/firestore";
 import { useRouter, useSearchParams } from "next/navigation";
-import { useEffect, useState } from "react";
+import { Suspense, useEffect, useState } from "react";
 
-export default function GamePage() {
+function GameComponent() {
     const router = useRouter();
     const searchParams = useSearchParams();
     const gameCode = searchParams.get("code");
@@ -186,4 +186,10 @@ export default function GamePage() {
             </div>
         </div>
     )
+}
+
+export default function GamePage() {
+    <Suspense>
+        <GameComponent />
+    </Suspense>
 }
