@@ -1,0 +1,864 @@
+[
+    {
+        "name": "Thibaut Courtois",
+        "position": "goalkeeper",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Real Madrid"
+            }
+        ]
+    },
+    {
+        "name": "Andriy Lunin",
+        "position": "goalkeeper",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Real Madrid"
+            }
+        ]
+    },
+    {
+        "name": "Raphael Varane",
+        "position": "defender",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Manchester United"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Manchester United"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Manchester United"
+            }
+        ]
+    },
+    {
+        "name": "Ferland Mendy",
+        "position": "defender",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Real Madrid"
+            }
+        ]
+    },
+    {
+        "name": "David Alaba",
+        "position": "defender",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Bayern Munich"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Real Madrid"
+            }
+        ]
+    },
+    {
+        "name": "Dani Carvajal",
+        "position": "defender",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Real Madrid"
+            }
+        ]
+    },
+    {
+        "name": "Nacho Fernandez",
+        "position": "defender",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Real Madrid"
+            }
+        ]
+    },
+    {
+        "name": "Eder Militao",
+        "position": "defender",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Real Madrid"
+            }
+        ]
+    },
+    {
+        "name": "Marcelo",
+        "position": "defender",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Real Madrid"
+            }
+        ]
+    },
+    {
+        "name": "Alvaro Odriozola",
+        "position": "defender",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Fiorentina"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Fiorentina"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Fiorentina"
+            }
+        ]
+    },
+    {
+        "name": "Casemiro",
+        "position": "midfielder",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Real Madrid"
+            }
+        ]
+    },
+    {
+        "name": "Luka Modric",
+        "position": "midfielder",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Real Madrid"
+            }
+        ]
+    },
+    {
+        "name": "Toni Kroos",
+        "position": "midfielder",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Real Madrid"
+            }
+        ]
+    },
+    {
+        "name": "Federico Valverde",
+        "position": "midfielder",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Real Madrid"
+            }
+        ]
+    },
+    {
+        "name": "Isco",
+        "position": "midfielder",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2021/2022",
+                "team": "PSG"
+            },
+            {
+                "season": "2022/2023",
+                "team": "PSG"
+            },
+            {
+                "season": "2023/2024",
+                "team": "PSG"
+            }
+        ]
+    },
+    {
+        "name": "Vinicius Junior",
+        "position": "forward",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Real Madrid"
+            }
+        ]
+    },
+    {
+        "name": "Karim Benzema",
+        "position": "forward",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Real Madrid"
+            }
+        ]
+    },
+    {
+        "name": "Eden Hazard",
+        "position": "forward",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Real Madrid"
+            }
+        ]
+    },
+    {
+        "name": "Rodrygo",
+        "position": "forward",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Real Madrid"
+            }
+        ]
+    },
+    {
+        "name": "Marco Asensio",
+        "position": "forward",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Real Madrid"
+            }
+        ]
+    },
+    {
+        "name": "Lucas Vazquez",
+        "position": "forward",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Real Madrid"
+            }
+        ]
+    },
+    {
+        "name": "Gareth Bale",
+        "position": "forward",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Tottenham Hotspur"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Real Madrid"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Real Madrid"
+            }
+        ]
+    },
+    {
+        "name": "Brahim Diaz",
+        "position": "forward",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "AC Milan"
+            },
+            {
+                "season": "2021/2022",
+                "team": "AC Milan"
+            },
+            {
+                "season": "2022/2023",
+                "team": "AC Milan"
+            },
+            {
+                "season": "2023/2024",
+                "team": "AC Milan"
+            }
+        ]
+    },
+    {
+        "name": "Marc-Andre ter Stegen",
+        "position": "goalkeeper",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Barcelona"
+            }
+        ]
+    },
+    {
+        "name": "Gerard Pique",
+        "position": "defender",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Barcelona"
+            }
+        ]
+    },
+    {
+        "name": "Jordi Alba",
+        "position": "defender",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Barcelona"
+            }
+        ]
+    },
+    {
+        "name": "Sergio Busquets",
+        "position": "midfielder",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Barcelona"
+            }
+        ]
+    },
+    {
+        "name": "Frenkie de Jong",
+        "position": "midfielder",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Barcelona"
+            }
+        ]
+    },
+    {
+        "name": "Pedri",
+        "position": "midfielder",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Barcelona"
+            }
+        ]
+    },
+    {
+        "name": "Ansu Fati",
+        "position": "forward",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Barcelona"
+            }
+        ]
+    },
+    {
+        "name": "Ousmane Dembele",
+        "position": "forward",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Barcelona"
+            }
+        ]
+    },
+    {
+        "name": "Memphis Depay",
+        "position": "forward",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Lyon"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Barcelona"
+            }
+        ]
+    },
+    {
+        "name": "Sergio Aguero",
+        "position": "forward",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Manchester City"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Barcelona"
+            }
+        ]
+    },
+    {
+        "name": "Philippe Coutinho",
+        "position": "forward",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Barcelona"
+            }
+        ]
+    },
+    {
+        "name": "Pedro",
+        "position": "forward",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Chelsea"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Barcelona"
+            }
+        ]
+    },
+    {
+        "name": "Antoine Griezmann",
+        "position": "forward",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Barcelona"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Atletico Madrid"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Atletico Madrid"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Atletico Madrid"
+            }
+        ]
+    },
+    {
+        "name": "Joao Felix",
+        "position": "forward",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Atletico Madrid"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Atletico Madrid"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Atletico Madrid"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Atletico Madrid"
+            }
+        ]
+    },
+    {
+        "name": "Luis Suarez",
+        "position": "forward",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Atletico Madrid"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Atletico Madrid"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Atletico Madrid"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Atletico Madrid"
+            }
+        ]
+    },
+    {
+        "name": "Angel Correa",
+        "position": "forward",
+        "seasons": [
+            {
+                "season": "2020/2021",
+                "team": "Atletico Madrid"
+            },
+            {
+                "season": "2021/2022",
+                "team": "Atletico Madrid"
+            },
+            {
+                "season": "2022/2023",
+                "team": "Atletico Madrid"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Atletico Madrid"
+            },
+            {
+                "season": "2023/2024",
+                "team": "Atletico Madrid"
+            }
+        ]
+    }
+]
